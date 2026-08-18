@@ -30,7 +30,7 @@ Joblib
 
 4)Machine Learning
 
-TF-IDF Vectorization
+TF-IDF Vectorization,
 Passive Aggressive Classifier
 
 5)Dataset
