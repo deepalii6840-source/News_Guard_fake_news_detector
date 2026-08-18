@@ -3,7 +3,7 @@ AI-powered fake news detection system using NLP, machine learning, React, Flask,
 
 NEWS GUARD is a machine learning-based web application that detects whether a news article is Fake or Real. It analyzes the text of a news article and provides a prediction along with a confidence score.
 
-1) Features
+ 1)Features
    
 Fake and real news classification
 Machine learning-based prediction
